@@ -1,14 +1,14 @@
 # Jiaxing-Gu-s-Pages.github.io
-## Welcome to Jiaxing GU's Pages
+# Welcome to Jiaxing GU's Pages
 From Zhejiang University,computer science .With one year code editting experience, only can use a little python and c. 
 
-###personal information
-####Name:Jiaxing Gu
-####Age:18
-####From: Hainan
-####Now study in Zhejiang university
+### personal information
+#### Name:Jiaxing Gu
+#### Age:18
+#### From: Hainan
+#### Now study in Zhejiang university
 
-### Markdown
+## Markdown
 <table border="0">
   <tr>
     <td width="75%">
