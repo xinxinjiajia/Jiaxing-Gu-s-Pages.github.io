@@ -4,7 +4,7 @@
 ### personal information
 ####   Name:Jiaxing Gu
 ####   Age:18
-####   From: Hainan
+####   From: Hainan,China
 ####   Now study in Zhejiang university
 
 ## A brief introduction
@@ -17,7 +17,7 @@
       <p><b>地址：浙江省杭州市西湖区路浙江大学，白沙学园（现居）
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">  
+      <img src="/zhengjianzhao.jpg" width="100%">    
     </td>
      
   If you have something emergency to contact with me,please call me at 13868034056 or 18289275351(may be not available) and if you just want to talk to me about somethings, you can add my qq (3487132242)
