@@ -15,7 +15,7 @@ From Zhejiang University,computer science .With one year code editting experienc
       <h1>谷佳兴</h1>
       <p><b>本科生</b></p>
       <p><b>浙江大学竺可桢学院</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>地址：浙江省杭州市西湖区路浙江大学，白沙学园（现居）
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      暂无
