@@ -38,10 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#If you have something emergency to contact with me,please call me at 13868034056 or 18289275351(may be not available).If you just want to talk to me about somethings, you can add my qq (3487132242)
 
 ### Jekyll Themes
 
