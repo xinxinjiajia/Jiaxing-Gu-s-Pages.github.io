@@ -26,20 +26,6 @@ From Zhejiang University,computer science .With one year code editting experienc
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 #If you have something emergency to contact with me,please call me at 13868034056 or 18289275351(may be not available).If you just want to talk to me about somethings, you can add my qq (3487132242)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinxinjiajia/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration
