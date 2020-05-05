@@ -23,4 +23,7 @@
 <table>
      
   If you have something emergency to contact with me,please call me at 13868034056 or 18289275351(may be not available) and if you just want to talk to me about somethings, you can add my qq (3487132242)
-
+# Honor
+Nothing very good to show.
+# Advantages
+Go is currently amateur four http://hnrb.hinews.cn/html/2014-08/20/content_15_2.htm
