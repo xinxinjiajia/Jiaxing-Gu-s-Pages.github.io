@@ -18,7 +18,7 @@ From Zhejiang University,computer science .With one year code editting experienc
       <p><b>地址：浙江省杭州市西湖区路浙江大学，白沙学园（现居）
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      暂无
+      <img src="/zhengjianzhao.jpg" width="100%">      
     
   If you have something emergency to contact with me,please call me at 13868034056 or 18289275351(may be not available) and if you just want to talk to me about somethings, you can add my qq (3487132242)
 
