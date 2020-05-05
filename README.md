@@ -18,7 +18,7 @@ From Zhejiang University,computer science .With one year code editting experienc
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">  
-   </td>
+    </td>
   </tr>
 </table>
      
