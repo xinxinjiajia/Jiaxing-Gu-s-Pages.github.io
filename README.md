@@ -26,4 +26,5 @@
 # Honor
 Nothing very good to show.
 # Advantages
-Go is currently amateur four http://hnrb.hinews.cn/html/2014-08/20/content_15_2.htm
+Go is currently amateur four.       http://hnrb.hinews.cn/html/2014-08/20/content_15_2.htm
+I have a good command in English.        https://www.doc88.com/p-8791922345195.html
